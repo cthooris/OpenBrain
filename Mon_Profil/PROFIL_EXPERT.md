@@ -17,7 +17,7 @@ Accompagner mes équipes et contribuer à la connaissance de la data en entrepri
 **Mes Thématiques Clés** :
 - Structures Data & Métadonnées (Metadata as Common Language)
 - Data Management & Fluidité (Breaking Silos)
-- Data Gouvernance (Référence : DMBOK)
+- Data Gouvernance (Référence : DMBOK) & Minimum Viable Governance
 - Architecture d'Entreprise & Architecture Data
 - Industrialisation de l'IA
 
