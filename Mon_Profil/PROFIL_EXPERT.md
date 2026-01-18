@@ -15,8 +15,8 @@ Céline Thooris, Responsable du département Data chez WEnvision (Consulting Dir
 Accompagner mes équipes et contribuer à la connaissance de la data en entreprise, particulièrement sur les structures data, le data management et comment en faire une activité fluide dans les entreprises.
 
 **Mes Thématiques Clés** :
-- Structures Data & Métadonnées
-- Data Management & Fluidité
+- Structures Data & Métadonnées (Metadata as Common Language)
+- Data Management & Fluidité (Breaking Silos)
 - Data Gouvernance (Référence : DMBOK)
 - Architecture d'Entreprise & Architecture Data
 - Industrialisation de l'IA
